@@ -1,6 +1,6 @@
 # MyPlanForGameCreation
 
-Slot game + RPG + Rouge Lite + Monopoly
+Slot game + RPG + Rouge Lite + Monopoly   
 Each Game start with (N) Coins, one coin one game, 0 coin = End Game
 
 ## Map
