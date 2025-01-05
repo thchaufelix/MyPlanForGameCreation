@@ -58,6 +58,20 @@ Each Game start with (N) Coins, one coin one game, 0 coin = End Game
      * endurance
      * Insight
 
+## Battle
+* status
+     * endurance = number of games (0 = loss battle)
+     * strangth = damage
+     * intellect = magic damage
+     * Insight = Crit Chance
+* Each Slot Contain
+     * Attack Icon
+     * Defence Icon
+     * Crit Icon
+     * Enemy Attack Icon
+     * Enemy Special Attack Icon
+     * Environment Effect Icon
+
 ## Story
 ### Context
 * Maybe Ask GPT
