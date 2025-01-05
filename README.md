@@ -1,7 +1,11 @@
 # MyPlanForGameCreation
 
 Slot game + RPG + Rouge Lite + Monopoly   
-Each Game start with (N) Coins, one coin one game, 0 coin = End Game
+Each Game start with (N) Coins, one coin one game, 0 coin = End Game   
+Use Coin to invest Building to make passive income (keep alive)   
+Battle will consume Coins (1 coin 2~3 move)   
+Have different Slot Machines (Different Rate?)   
+Slot Machines Icon can be modified by player   
 
 ## Map
 ### Feature
