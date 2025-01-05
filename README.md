@@ -49,14 +49,15 @@ Each Game start with (N) Coins, one coin one game, 0 coin = End Game
 
 ## Character
 * team of 4
-* start from 1
-* can global upgraded
+   * start from 1
+   * can global upgraded
 * status
-     * slot
      * strangth
      * intellect
      * endurance
      * Insight
+* upgrade
+     * slot
 
 ## Battle
 * status
